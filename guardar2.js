@@ -11,7 +11,7 @@
 
      var opts = {
          maxResults: 1,
-         key : "AIzaSyB3IzJp56L5bzbuPJtmTmFv9R7U-eWlY2I",
+         key : "YT KEY",
          type : "video"
      };
 
