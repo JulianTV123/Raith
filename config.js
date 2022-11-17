@@ -2,7 +2,7 @@ module.exports = {
  dirBase : './database/base_1.db',
  superusers: [], //Puedes añadir ID
  token: 'ODI5MDE5NzU0MTMwOTY0NTMy.YGyCzw.MGYTjTwKITInWade-HBEUAHUwS0',
- ytKey: 'AIzaSyB3IzJp56L5bzbuPJtmTmFv9R7U-eWlY2I',
+ ytKey: 'Youtube Token',
  prefix: '-',
  statusBOT: 'Estoy listo!',
  categories: [
