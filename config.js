@@ -1,7 +1,7 @@
 module.exports = {
  dirBase : './database/base_1.db',
  superusers: [], //Puedes añadir ID
- token: 'ODI5MDE5NzU0MTMwOTY0NTMy.YGyCzw.MGYTjTwKITInWade-HBEUAHUwS0',
+ token: 'Discord Bot Token',
  ytKey: 'Youtube Token',
  prefix: '-',
  statusBOT: 'Estoy listo!',
