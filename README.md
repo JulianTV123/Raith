@@ -1,2 +1,2 @@
-# bot-modular-discordjs-v12
-> Agregar el token de su Bot en `config.js`
+# bot-modular-raith-v1
+> Agregar el token del Bot en `config.js`
